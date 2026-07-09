@@ -16,7 +16,6 @@ result*.json
 *_annotated.py
 
 # 临时文件
-history
 
 # macOS 元数据
 __MACOSX/

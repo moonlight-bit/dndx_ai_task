@@ -1,0 +1,7 @@
+2026/7/10
+"backend": "transformers",
+  "sample_count": 10,
+  "avg_ttft_ms": 882.055,
+  "avg_throughput_tokens_per_sec": 10.874,
+  "accuracy": 1.0,
+  "public_validation_passed": true
