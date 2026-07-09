@@ -1,0 +1,32 @@
+# 模型权重（太大，不进 git）
+Qwen3.5-2B/
+
+# 数据集（超过 100MB，不进 git，选手自行下载）
+datasets/mmbench/*.tsv
+
+# Python 运行时
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行产出
+result*.json
+
+# 注释版代码（本地参考用，不进仓库）
+*_annotated.py
+
+# 临时文件
+history
+
+# macOS 元数据
+__MACOSX/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 虚拟环境
+venv/
+.venv/
+env/
