@@ -1,4 +1,4 @@
-2026/7/10
+2026/7/10  RTX4060
 "backend": "transformers",
   "sample_count": 10,
   "avg_ttft_ms": 882.055,
